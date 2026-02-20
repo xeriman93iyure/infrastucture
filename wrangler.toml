@@ -1,4 +1,4 @@
-name = "infrastructure"
+name = "infrastucture"
 main = "worker.js"
 compatibility_date = "2026-02-20"
 workers_dev = true
